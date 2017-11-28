@@ -10,6 +10,9 @@
 - A README.md (project's context and relevant links)
 - Asset's Original Illustrator file (.ai when applicable, lowercase, file size)
 - Asset's Original Photoshop file (.psd when applicable, lowercase, file size)
+- Screenshot of GitHub README.md Brand Header (.png image high-res)
+- GitHub README.md Brand Header Illustrator File (.ai when applicable, lowercase, file size)
+- GitHub README.md Brand Header Photoshop File (.psd when applicable, lowercase, file size)
 
 #### Asset's Swag should have:
 

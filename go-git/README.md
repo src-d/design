@@ -10,6 +10,12 @@
 
 [Original Illustrator File](files/go-git-logo.ai) 618 KB
 
+#### GitHub README.md Brand Header
+
+![go-git](files/go-git-github-readme-header.png)
+
+[Original Illustrator File](files/go-git-github-readme-header.ai) 566 KB
+
 ### Swag
 
 ---
