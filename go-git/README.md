@@ -1,11 +1,12 @@
 # go-git Artwork
 
-## Artwork for [go-git](https://github.com/src-d/go-git)
+## Artwork for
 
-**go-git**
-highly extensible git implementation in pure Go.
+[go-git](https://github.com/src-d/go-git) Highly extensible git implementation in pure Go.
 
 ### Logo
+
+---
 
 ![go-git](files/go-git-logo.png)
 
@@ -13,7 +14,9 @@ highly extensible git implementation in pure Go.
 
 ### Swag
 
-#### t-shirts
+---
+
+#### T-Shirts
 
 ![go-git-t-shirt](files/go-git-t-shirt.png)
 
@@ -27,7 +30,7 @@ highly extensible git implementation in pure Go.
 
 [Ready to Print Illustrator File](files/go-git-t-shirt.ai)
 
-#### stickers
+#### Stickers
 
 ![go-git-sticker](files/sticker-composition.png)
 
