@@ -23,8 +23,6 @@
 
 ## Artworks
 
----
-
 ### [go-git](go-git/README.md)
 
 
