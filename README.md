@@ -25,7 +25,7 @@
 
 ### [go-git](go-git/README.md)
 ### [meetups](meetups/README.md)
-### [awesome MlonCode](awesome-mloncode/README.md)
+### [awesome MLonCode](awesome-mloncode/README.md)
 
 
 
