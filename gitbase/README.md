@@ -15,3 +15,10 @@
 ![gitbase](files/gitbase-github-readme-header.png)
 
 [Original Illustrator File](files/gitbase-logo-composition.ai) 482 KB
+
+
+#### GitHub README.md Brand Header Composition
+
+![gitbase](files/gitbase-github-composition.png)
+
+[Image File](files/gitbase-github-composition.png) 503 KB
