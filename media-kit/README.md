@@ -12,3 +12,6 @@
 
 [Logo White](files/sourced_logo_white.svg) 13 KB
 
+[Logo Blue .svg](files/sourced-logo-blue.svg) 13 KB
+
+[Logo Blue .png](files/sourced-logo-blue.png) 14 KB
