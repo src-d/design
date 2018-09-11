@@ -12,6 +12,6 @@ You can download it from the releases page at [github.com/src-d/datasets](github
 
 - [High Definition Logo](pga/files/high-definition-pga.png) 127 KB
 - [High Definition Logo transparent background](pga/files/high-definition-transparent-pga.png) 125 KB
-- [igh Definition Logo](pga/files/low-definition-pga.png) 120 KB
+- [High Definition Logo](pga/files/low-definition-pga.png) 120 KB
 - [Low Definition Logo transparent background](pga/files/low-definition-transparent-pga.png) 119 KB
 - [Original Illustrator File](pga/files/pga-logo-vector.ai) 701 KB
