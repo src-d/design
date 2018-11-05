@@ -24,5 +24,7 @@
 
 [Logo Blue Desktop Transparent](files/sourced-logo-blue-desktop-transparent.png) PNG 223 KB
 
-[Logo Blue Print](files/sourced-logo-blue-print.png) PNG 97 KB 
+[Logo Blue Print](files/sourced-logo-blue-print.png) PNG 97 KB
+
+[source(d) tagline](files/sourced-tagline.svg) SVG 12 KB 
 
