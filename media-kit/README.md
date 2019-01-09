@@ -2,29 +2,50 @@
 
 ### Logo
 
----
+#### Primary White Background & Medium Gray Background
 
-![source{d}logo](files/sourced-logo-blue-web.png)
+![source{d}logo](files/primary-white-background-web.png)
 
-[Logo Usage Guidelines](files/logo-usage-guidelines.pdf) 11,5 MB
+[Logo Primary White Background](files/primary-white-background.svg) SVG 13 KB
+[Logo Primary White Background](files/primary-white-background.eps) EPS 13 KB
+[Logo Primary White Background](files/primary-white-background-2x.png) PNG 2x 13 KB
+[Logo Primary White Background](files/primary-white-background-4x.png) PNG 4x KB
 
-[Logo Primary](files/sourced_logo-primary.svg) SVG 13 KB
+#### Secondary White Background & Soft Gray Background
 
-[Logo Black](files/sourced_logo_black.svg) SVG 13 KB
+![source{d}logo](files/secondary-white-background-web.png)
 
-[Logo White](files/sourced_logo_white.svg) SVG 13 KB
+[Logo Secondary White Background](files/secondary-white-background.svg) SVG 13 KB
+[Logo Secondary White Background](files/secondary-white-background.eps) EPS 13 KB
+[Logo Secondary White Background](files/secondary-white-background-2x.png) PNG 2x 13 KB
+[Logo Secondary White Background](files/secondary-white-background-4x.png) PNG 4x KB
 
-[Logo Blue](files/sourced-logo-blue.svg) SVG 13 KB
+#### Tertiary White Background 
 
-[Logo Avatar](files/sourced-logo-avatar.svg) SVG 14 KB
+![source{d}logo](files/tertiary-white-background-web.png)
 
-[Logo Blue Web](files/sourced-logo-blue-web.png) PNG 7 KB
+[Logo Primary White Background](files/tertiary-white-background.svg) SVG 13 KB
+[Logo Primary White Background](files/tertiary-white-background.eps) EPS 13 KB
+[Logo Primary White Background](files/tertiary-white-background-2x.png) PNG 2x 13 KB
+[Logo Primary White Background](files/tertiary-white-background-4x.png) PNG 4x KB
 
-[Logo Blue Desktop](files/sourced-logo-blue-desktop.png) PNG 30 KB
+#### Primary Black Background 
 
-[Logo Blue Desktop Transparent](files/sourced-logo-blue-desktop-transparent.png) PNG 223 KB
+![source{d}logo](files/primary-black-background-web-web.png)
 
-[Logo Blue Print](files/sourced-logo-blue-print.png) PNG 97 KB
+[Logo Primary White Background](files/primary-black-background.svg) SVG 13 KB
+[Logo Primary White Background](files/primary-black-background.eps) EPS 13 KB
+[Logo Primary White Background](files/primary-black-background-web.svg) PNG 2 KB
+[Logo Primary White Background](files/primary-black-background-2x.png) PNG 2x 13 KB
+[Logo Primary White Background](files/primary-black-background-4x.png) PNG 4x KB
 
-[source(d) tagline](files/sourced-tagline.svg) SVG 12 KB 
+#### Brackets Version
+
+![source{d}logo](files/logo-brackets-360x360.png)
+
+[Logo Primary White Background](files/logo-brackets.svg) SVG 13 KB
+[Logo Primary White Background](files/logo-brackets.eps) EPS 13 KB
+
+
+
 
