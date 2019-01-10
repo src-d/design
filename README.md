@@ -1,4 +1,4 @@
-# source{d} Artwork
+# source{d} Design
 
 ![artwork](files/src-artwork.png)
 
