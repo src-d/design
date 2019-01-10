@@ -2,7 +2,13 @@
 
 ![artwork](files/src-artwork.png)
 
-### The purpose of this repo is to gather Cross-Company's Projects Brand Assets.
+The purpose of this repo is to gather Cross-Company's Projects Branding Assets.
+
+## source{d} Brand Style Guide
+
+Here you find the Primary Guidelines that ground our Brand Assets Usage and overall Branding Rules. 
+
+- [source{d} Brand Style Guide](https://docs.google.com/presentation/d/1q290ZrAMola1nSwzYmScOo3gsMgEIXKi2BsWgnMY078/edit?usp=sharing)
 
 #### Brand Assets should have:
 
@@ -24,12 +30,12 @@
 ## Artworks
 
 
-### [source{d} Media Kit](media-kit/README.md)
-### [go-git](go-git/README.md)
-### [meetups](meetups/README.md)
-### [awesome MLonCode](awesome-mloncode/README.md)
-### [gitbase](gitbase/README.md)
-### [Public Git Archive](pga/README.md)
+- [source{d} Media Kit](media-kit/README.md)
+- [go-git](go-git/README.md)
+- [meetups](meetups/README.md)
+- [awesome MLonCode](awesome-mloncode/README.md)
+- [gitbase](gitbase/README.md)
+- [Public Git Archive](pga/README.md)
 
 
 
