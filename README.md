@@ -1,8 +1,14 @@
-# source{d} Artwork
+# source{d} Design
 
 ![artwork](files/src-artwork.png)
 
-### The purpose of this repo is to gather Cross-Company's Projects Brand Assets.
+All things (open!) design at source{d}: branding, guidelines, UI assets, media & co.
+
+## source{d} Brand Style Guide
+
+Here you find the primary guidelines that ground our brand assets usage and overall branding rules. 
+
+- [source{d} Brand Style Guide](https://docs.google.com/presentation/d/1q290ZrAMola1nSwzYmScOo3gsMgEIXKi2BsWgnMY078/edit?usp=sharing)
 
 #### Brand Assets should have:
 
@@ -23,15 +29,9 @@
 
 ## Artworks
 
-
-### [source{d} Media Kit](media-kit/README.md)
-### [go-git](go-git/README.md)
-### [meetups](meetups/README.md)
-### [awesome MLonCode](awesome-mloncode/README.md)
-### [gitbase](gitbase/README.md)
-### [Public Git Archive](pga/README.md)
-
-
-
-
-
+- [source{d} Media Kit](media-kit/README.md)
+- [go-git](go-git/README.md)
+- [meetups](meetups/README.md)
+- [awesome MLonCode](awesome-mloncode/README.md)
+- [gitbase](gitbase/README.md)
+- [Public Git Archive](pga/README.md)
