@@ -2,7 +2,7 @@
 
 ![artwork](files/src-artwork.png)
 
-The purpose of this repo is to gather Cross-Company's Projects Branding Assets.
+All things (open!) design at source{d}: branding, guidelines, UI assets, media & co.
 
 ## source{d} Brand Style Guide
 
