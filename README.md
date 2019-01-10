@@ -6,7 +6,7 @@ All things (open!) design at source{d}: branding, guidelines, UI assets, media &
 
 ## source{d} Brand Style Guide
 
-Here you find the Primary Guidelines that ground our Brand Assets Usage and overall Branding Rules. 
+Here you find the primary guidelines that ground our brand assets usage and overall branding rules. 
 
 - [source{d} Brand Style Guide](https://docs.google.com/presentation/d/1q290ZrAMola1nSwzYmScOo3gsMgEIXKi2BsWgnMY078/edit?usp=sharing)
 
