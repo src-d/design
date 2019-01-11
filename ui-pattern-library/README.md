@@ -1,12 +1,8 @@
 # source{d} UI Pattern Library
 
-All things (open!) design at source{d}: branding, guidelines, UI assets, media & co.
-
-## source{d} UI Pattern Library
+## Ready to use UI Assets
 
 Here you find the UI Pattern Library for web brand applications.
-
-### Ready to use UI Assets
 
 - [Main Sketch Pattern Library File](files/landing-pattern-library.sketch)
 - [Typography Symbols Library File](files/typography)
