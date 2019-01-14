@@ -10,6 +10,12 @@ Here you find the primary guidelines that ground our brand assets usage and over
 
 - [source{d} Brand Style Guide](https://docs.google.com/presentation/d/1q290ZrAMola1nSwzYmScOo3gsMgEIXKi2BsWgnMY078/edit?usp=sharing)
 
+## source{d} UI Pattern Library
+
+Here you find the UI Pattern Library for web brand applications.
+
+- [source{d} UI Pattern library](ui-pattern-library/README.md)
+
 #### Brand Assets should have:
 
 - Its own Project directory (lowercase)
