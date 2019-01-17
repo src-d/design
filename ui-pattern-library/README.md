@@ -12,5 +12,5 @@ Here you find the UI Pattern Library for web brand applications.
 
 If you're looking for an alternative to Sketch, you can use the Pattern Library [Zeplin](https://zeplin.io) export.
 
-- [Pattern Library Zeplin App Link](zpl://project?pid=5c33c275c3ffa443a5d6bfe0) 
+- [Pattern Library Zeplin Web Link](https://zpl.io/aXwJ33K) 
 
