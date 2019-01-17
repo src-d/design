@@ -9,3 +9,8 @@ Here you find the UI Pattern Library for web brand applications.
 - [UI Elements Symbols Library File](files/ui-elements.sketch)
 
 > Note:  please download all files and keep them in one folder. The main landing-pattern-library.sktech file calls the other ones as libraries of symbols.
+
+If you're looking for an alternative to Sketch, you can use the Pattern Library [Zeplin](https://zeplin.io) export.
+
+- [Pattern Library Zeplin App Link](zpl://project?pid=5c33c275c3ffa443a5d6bfe0) 
+
