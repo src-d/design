@@ -50,6 +50,10 @@ Here you find the UI Pattern Library for web brand applications.
 - [gitbase](gitbase/README.md)
 - [Public Git Archive](pga/README.md)
 
+### Extra Swag
+
+- [source{d}-like Visual Studio Code color theme](https://github.com/kuba--/sourced-theme) (kudos to [@kuba--](@kuba--))
+
 ## License
 
 [Creative Commons Attribution Share Alike 4.0 International](LICENSE)
