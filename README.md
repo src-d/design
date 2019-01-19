@@ -18,8 +18,10 @@ Here you find the UI Pattern Library for web brand applications.
 
 ## Assets
 
+### Guidelines
+
 <details>
-  <summary>Asset guidelines</summary>
+  <summary>Click to see guideline details</summary>
 
 #### Brand Assets should have
 
@@ -47,3 +49,7 @@ Here you find the UI Pattern Library for web brand applications.
 - [awesome MLonCode](awesome-mloncode/README.md)
 - [gitbase](gitbase/README.md)
 - [Public Git Archive](pga/README.md)
+
+## License
+
+[Creative Commons Attribution Share Alike 4.0 International](LICENSE)
