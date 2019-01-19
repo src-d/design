@@ -16,7 +16,12 @@ Here you find the UI Pattern Library for web brand applications.
 
 - [source{d} UI Pattern library](ui-pattern-library/README.md)
 
-#### Brand Assets should have:
+## Assets
+
+<details>
+  <summary>Asset guidelines</summary>
+
+#### Brand Assets should have
 
 - Its own Project directory (lowercase)
 - A README.md (project's context and relevant links)
@@ -26,14 +31,15 @@ Here you find the UI Pattern Library for web brand applications.
 - GitHub README.md Brand Header Illustrator File (.ai when applicable, lowercase, file size)
 - GitHub README.md Brand Header Photoshop File (.psd when applicable, lowercase, file size)
 
-#### Asset's Swag should have:
+#### Asset's Swag should have
 
 - Ready to print Asset (desired/required file format, file size)
 - Screenshot of Asset's Application Composition (.png image high-res)
 - Original Photoshop/Illustrator Application Composition File (project-asset, lowercase, file size)
 - Printer Guidelines Reference (when applicable)
+</details>
 
-## Artworks
+### Artworks
 
 - [source{d} Media Kit](media-kit/README.md)
 - [go-git](go-git/README.md)
