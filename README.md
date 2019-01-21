@@ -52,7 +52,7 @@ Here you find the UI Pattern Library for web brand applications.
 
 ### Extra Swag
 
-- [source{d}-like Visual Studio Code color theme](https://github.com/kuba--/sourced-theme) (kudos to [@kuba--](@kuba--))
+- [source{d}-like Visual Studio Code color theme](https://github.com/kuba--/vscode/tree/master/extensions/monokai-sourced) (kudos to [@kuba--](@kuba--))
 
 ## License
 
