@@ -16,6 +16,13 @@ Here you find the UI Pattern Library for web brand applications.
 
 - [source{d} UI Pattern library](ui-pattern-library/README.md)
 
+## source{d} Presentation Template
+
+Here you find the Presentation Template, as well the Get Started Guide. 
+
+- [source{d} Presentation Template](https://docs.google.com/presentation/u/1/?tgif=d&ftv=1)
+- [source{d} Presentation Template Get Started Guide](https://docs.google.com/presentation/d/1UNbi0yBSAOdMgukVKqPrd9b3j1e1ivmI2uB1mpJCeRk/edit?pli=1#slide=id.p)
+
 ## Assets
 
 ### Guidelines
