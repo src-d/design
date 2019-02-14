@@ -20,7 +20,7 @@ Here you find the UI Pattern Library for web brand applications.
 
 Here you find the Presentation Template, that has by default the Get Started Guide Slides. 
 
-- [source{d} Presentation Template 2019](https://docs.google.com/presentation/u/1/?tgif=d&ftv=1)
+- [source{d} Presentation Template 2019](https://docs.google.com/presentation/?ftv=1&tgif=d)
 
 ## Assets
 
