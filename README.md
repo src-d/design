@@ -16,6 +16,12 @@ Here you find the UI Pattern Library for web brand applications.
 
 - [source{d} UI Pattern library](ui-pattern-library/README.md)
 
+## source{d} Presentation Template
+
+Here you find the Presentation Template, that has by default the Get Started Guide Slides. 
+
+- [source{d} Presentation Template 2019](https://docs.google.com/presentation/?ftv=1&tgif=d)
+
 ## Assets
 
 ### Guidelines
