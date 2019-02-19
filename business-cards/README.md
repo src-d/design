@@ -4,9 +4,13 @@
 
 ![Business Card Front](files/sourced-business-card-front.png)
 
-### Back
+### Back with Picture
 
-![Business Card Back](files/sourced-business-card-back.png)
+![Business Card Back with Picture](files/sourced-business-card-back.png)
+
+### Back without Picture
+
+![Business Card Back without Picture](files/sourced-business-card-back-no-picture.png)
 
 #### Base Illustrator File
 
