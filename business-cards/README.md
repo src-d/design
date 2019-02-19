@@ -1,5 +1,7 @@
 # source{d} Business Cards
 
+**Note:** For ordering business cards, create an issue in the [src-d/office repository](https://github.com/src-d/office/) providing your data and any other important info and tagging the Office Manager and the [primary maintainer of src-d/design](https://github.com/src-d/design/blob/master/MAINTAINERS).
+
 ### Front
 
 ![Business Card Front](files/sourced-business-card-front.png)
