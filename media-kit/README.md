@@ -45,6 +45,9 @@
 
 - [Logo Brackets Version](files/logo-brackets.svg) SVG 13 KB
 - [Logo Brackets Version](files/logo-brackets.eps) EPS 13 KB
+- [Logo Brackets Version](files/logo-brackets-360x360.png) PNG 17 KB
+- [Logo Brackets Version](files/logo-brackets-x2.png) PNG 2x 51 KB
+- [Logo Brackets Version](files/logo-brackets-x4.png) PNG 4x 113 KB
 
 
 
