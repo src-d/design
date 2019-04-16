@@ -55,15 +55,15 @@
 ![source{d}enginelogo](files/sourced-engine-logo-web.png)
 
 - [source{d} Engine Logo](files/sourced-engine-logo.svg) SVG 9 KB
-- [Logo Primary White & Medium Gray Background](files/sourced-engine-logo.eps) EPS 386 KB
-- [Logo Primary White & Medium Gray Background](files/sourced-engine-logo-x2.png) PNG 2x 18 KB
-- [Logo Primary White & Medium Gray Background](files/sourced-engine-logo-x4.png) PNG 4x 39 KB
+- [source{d} Engine Logo](files/sourced-engine-logo.eps) EPS 386 KB
+- [source{d} Engine Logo](files/sourced-engine-logo-x2.png) PNG 2x 18 KB
+- [source{d} Engine Logo](files/sourced-engine-logo-x4.png) PNG 4x 39 KB
 
 #### source{d} Lookout Logo
 
 ![source{d}lookoutlogo](files/sourced-lookout-logo-web.png)
 
-- [source{d} Engine Logo](files/sourced-lookout-logo.svg) SVG 9 KB
-- [Logo Primary White & Medium Gray Background](files/sourced-lookout-logo.eps) EPS 778 KB
-- [Logo Primary White & Medium Gray Background](files/sourced-lookout-logo-x2.png) PNG 2x 19 KB
-- [Logo Primary White & Medium Gray Background](files/sourced-lookout-logo-x4.png) PNG 4x 41 KB
+- [source{d} Lookout Logo](files/sourced-lookout-logo.svg) SVG 9 KB
+- [source{d} Lookout Logo](files/sourced-lookout-logo.eps) EPS 778 KB
+- [source{d} Lookout Logo](files/sourced-lookout-logo-x2.png) PNG 2x 19 KB
+- [source{d} Lookout Logo](files/sourced-lookout-logo-x4.png) PNG 4x 41 KB
