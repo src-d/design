@@ -8,8 +8,8 @@
 
 - [Logo Primary White & Medium Gray Background](files/primary-white-background.svg) SVG 13 KB
 - [Logo Primary White & Medium Gray Background](files/primary-white-background.eps) EPS 13 KB
-- [Logo Primary White & Medium Gray Background](files/primary-white-background-2x.png) PNG 2x 13 KB
-- [Logo Primary White & Medium Gray Background](files/primary-white-background-4x.png) PNG 4x KB
+- [Logo Primary White & Medium Gray Background](files/primary-white-background-2x.png) PNG 2x 11 KB
+- [Logo Primary White & Medium Gray Background](files/primary-white-background-4x.png) PNG 4x 23 KB
 
 #### Secondary White Background & Soft Gray Background
 
@@ -17,8 +17,8 @@
 
 - [Logo Secondary White & Soft Gray Background](files/secondary-white-background.svg) SVG 13 KB
 - [Logo Secondary White & Soft Gray Background](files/secondary-white-background.eps) EPS 13 KB
-- [Logo Secondary White & Soft Gray Background](files/secondary-white-background-2x.png) PNG 2x 13 KB
-- [Logo Secondary White & Soft Gray Background](files/secondary-white-background-4x.png) PNG 4x KB
+- [Logo Secondary White & Soft Gray Background](files/secondary-white-background-2x.png) PNG 2x 11 KB
+- [Logo Secondary White & Soft Gray Background](files/secondary-white-background-4x.png) PNG 4x 23 KB
 
 #### Tertiary White Background 
 
@@ -26,8 +26,8 @@
 
 - [Logo Tertiary White Background](files/tertiary-white-background.svg) SVG 13 KB
 - [Logo Tertiary White Background](files/tertiary-white-background.eps) EPS 13 KB
-- [Logo Tertiary White Background](files/tertiary-white-background-2x.png) PNG 2x 13 KB
-- [Logo Tertiary White Background](files/tertiary-white-background-4x.png) PNG 4x KB
+- [Logo Tertiary White Background](files/tertiary-white-background-2x.png) PNG 2x 11 KB
+- [Logo Tertiary White Background](files/tertiary-white-background-4x.png) PNG 4x 23 KB
 
 #### Primary Black Background 
 
@@ -35,9 +35,9 @@
 
 - [Logo Primary Black Background](files/primary-black-background.svg) SVG 13 KB
 - [Logo Primary Black Background](files/primary-black-background.eps) EPS 13 KB
-- [Logo Primary Black Background](files/primary-black-background-web.svg) PNG 2 KB
-- [Logo Primary Black Background](files/primary-black-background-2x.png) PNG 2x 13 KB
-- [Logo Primary Black Background](files/primary-black-background-4x.png) PNG 4x KB
+- [Logo Primary Black Background](files/primary-black-background-web.svg) PNG 5 KB
+- [Logo Primary Black Background](files/primary-black-background-2x.png) PNG 2x 10 KB
+- [Logo Primary Black Background](files/primary-black-background-4x.png) PNG 4x 20 KB
 
 #### Brackets Version
 
@@ -45,9 +45,9 @@
 
 - [Logo Brackets Version](files/logo-brackets.svg) SVG 13 KB
 - [Logo Brackets Version](files/logo-brackets.eps) EPS 13 KB
-- [Logo Brackets Version](files/logo-brackets-360x360.png) PNG 17 KB
-- [Logo Brackets Version](files/logo-brackets-x2.png) PNG 2x 51 KB
-- [Logo Brackets Version](files/logo-brackets-x4.png) PNG 4x 113 KB
+- [Logo Brackets Version](files/logo-brackets-360x360.png) PNG 13 KB
+- [Logo Brackets Version](files/logo-brackets-x2.png) PNG 2x 31 KB
+- [Logo Brackets Version](files/logo-brackets-x4.png) PNG 4x 76 KB
 
 
 
