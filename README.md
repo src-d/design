@@ -49,6 +49,7 @@ Here you find the Presentation Template, that has by default the Get Started Gui
 
 ### Artworks
 
+- [source{d} Code as Data & ML on Code Diagram](files/code-as-data-ml-on-code-diagram.png) 670 KB
 - [source{d} Business Cards](business-cards/README.md)
 - [source{d} Media Kit](media-kit/README.md)
 - [go-git](go-git/README.md)
