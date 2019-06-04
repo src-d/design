@@ -61,6 +61,7 @@ Here you find the Presentation Template, that has by default the Get Started Gui
 ### Extra Swag
 
 - [source{d}-like Visual Studio Code color theme](https://github.com/kuba--/vscode/tree/master/extensions/monokai-sourced) (kudos to [@kuba--](@kuba--))
+- [source{d}-like nail polish](extra/nailpolish/README.md)
 
 ## License
 
